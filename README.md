@@ -9,8 +9,7 @@ A simple and responsive currency converter web application built using HTML, CSS
 - Real-time exchange rates using API
 - User-friendly interface
 - Responsive design
-- Country flags support
-- 
+
 ## 🛠️ Technologies Used
 
 - HTML
