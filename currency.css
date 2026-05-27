@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+#main{
+     margin: 100px auto;
+    /* text-align: center; */
+    background-color: rgb(18, 224, 97);
+    padding: 10px;
+    border-radius: 15px;
+    width: 400px;
+}
+
+body{
+    background-color: rgb(19, 78, 37);
+}
+
+input{
+background-color: bisque;
+border-radius: 20px;
+margin-left: 60px;
+font-size: 20px;
+}
+#result{
+    font-size: 40px;
+    background-color: rgb(60, 96, 32);
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+}
+.nothing{
+    font-size: 30px;
+}
+#from{
+    font-size: 25px;
+    border-radius: 15px;
+}
+#to{
+    font-size: 25px;
+    border-radius: 15px;
+}
+#convert{
+    font-size: 25px;
+    margin-left: 150px;
+    background-color: rgb(148, 181, 0);
+    border-radius: 15px;
+}
+#convert:hover{
+    background-color: green;
+}   
