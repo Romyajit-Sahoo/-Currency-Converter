@@ -4,7 +4,7 @@ let from = document.querySelector("#from");
 let to = document.querySelector("#to");
 let result = document.querySelector("#result");
 let amount = document.querySelector("#amount")
-const URL = "currency_api_key";
+const URL = "https://open.er-api.com/v6/latest/USD";
 
 
 for (let option in countries) {
